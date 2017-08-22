@@ -39,11 +39,11 @@ talib的python版本官网：http://mrjbq7.github.io/ta-lib/index.html
 
 例如CDL2CROWS这个函数，从上方地址中找到对应的函数入口，如下图：
 
-![](pic/c代码入口.png)
+![](/pic/c代码入口.png)
 
 点击进入后在其中的第215行开始，就是函数的说明，如下图
 
-![](pic/c代码中的注释.png)
+![](/pic/c代码中的注释.png)
 
 以上部分需要翻译。
 
