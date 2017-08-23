@@ -1,2 +1,2 @@
-# Following
-Following those great man on GitHub
+# xingbuxing
+https://github.com/xingbuxing
