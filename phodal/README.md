@@ -1,5 +1,6 @@
 [Growth: 全栈增长工程师指南](https://github.com/phodal/growth-ebook)
 ===
+https://github.com/phodal/growth-ebook
 
 Growth 纸质版《全栈应用开发：精益实践》，现已上市：
 
