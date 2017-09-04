@@ -9,9 +9,6 @@
 
 下载地址 2：[http://t.xiaomiquan.com/3fqbQbM](http://t.xiaomiquan.com/3fqbQbM)
 
-关注我的微信公众号（扫描下面的二维码或搜索 Phodal）.
-
-![QRCode](http://articles.phodal.com/qrcode.jpg)
 
 目录
 ---
